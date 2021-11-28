@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '179c9389f8de4e0c9b875f5e6c19a6f9',
+  rootNotionPageId: '9c8d933a28fe4768a30133e0544e0645',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,8 +8,8 @@ module.exports = {
 
   // basic site info (required)
   name: 'Resume Kaku',
-  domain: 'https://www.notion.so/Resume-Kaku-179c9389f8de4e0c9b875f5e6c19a6f9t',
-  author: 'Guo HaoHao',
+  domain: 'https://www.notion.so/Kaku-Resume-9c8d933a28fe4768a30133e0544e0645',
+  author: 'Guo Zixuan',
 
   // open graph metadata (optional)
   description: 'Example site description',
